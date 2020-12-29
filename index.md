@@ -12,14 +12,14 @@ Outside of professional work you can find me tinkering on random side projects, 
 
 ### Experience
 
-I spent way too long on figuring out \LaTeX for my "rEsUMe" so I'm just linking it [here](/pdf/resume.pdf).
+I spent wayyy too long on figuring out \LaTeX for my "rEsUMe" so I'm just linking it [here](/pdf/resume.pdf).
 
 ### Cool Stuff
 
-I'll link to posts about fun projects here.
+Fun projects [here](/cool_stuff).
 
 ### Blog
 
-Blog? We'll see lol.
+[Blog?](/blog)
 
 ---
