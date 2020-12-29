@@ -16,7 +16,7 @@ I spent wayyy too long on figuring out \LaTeX for my "rEsUMe" so I'm just linkin
 
 ### Cool Stuff
 
-Fun [projects](/cool_stuff)
+Fun [projects](/projects)
 
 ### Thoughts
 
