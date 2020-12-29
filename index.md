@@ -20,6 +20,6 @@ Fun projects [here](/cool_stuff).
 
 ### Blog
 
-[Blog?](/blog)
+Thoughts on the [blog](/blog).
 
 ---
