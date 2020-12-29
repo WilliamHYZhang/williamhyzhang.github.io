@@ -18,8 +18,8 @@ I spent wayyy too long on figuring out \LaTeX for my "rEsUMe" so I'm just linkin
 
 Fun [projects](/cool_stuff)
 
-### Blog
+### Thoughts
 
-Thoughts on the [blog](/blog).
+My [blog](/blog)
 
 ---
