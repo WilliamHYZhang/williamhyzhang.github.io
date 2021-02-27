@@ -1,4 +1,4 @@
-### In the Attic
+## In the Attic
 
 None of this is complete in any sense, but I've done a lot of random projects and have ideas for new ones, so I need a place to document them before I forget haha.
 
@@ -20,6 +20,6 @@ Backlog of past projects to maybe write about when I feel like it.
 
 Upcoming projects that I'm planning on or already doing.
 - College swag automation (post corona probably)
-- Twitter giveaway bot
+- ~~Twitter giveaway bot~~
 - Research stuffs
 - Mathisify

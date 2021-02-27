@@ -12,7 +12,7 @@ Outside of professional work you can find me tinkering on random side projects, 
 
 ### Experience
 
-I spent wayyy too long on figuring out \LaTeX for my "rEsUMe" so I'm just linking it [here](/pdf/resume.pdf).
+I spent wayyy too long on figuring out \LaTeX for my "rEsUMe" so I'm just linking it [here](/pdf/resume.pdf) (a bit outdated now ¯\_(ツ)_/¯).
 
 ### Cool Stuff
 
