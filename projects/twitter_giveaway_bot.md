@@ -14,4 +14,4 @@ Some notes about what I had changed:
 - Limited following.
 - And finally, probably the most big brain move. To maintain a healthy following/follower ratio, I now farm follows by tweeting "giveaway-like" tweets every so often, and have bots that OTHER people create like, follow, and retweet :))
 
-And yeah, that's pretty much it. I've mostly won some small stuff like Pokemon codes, Roblox stuff, and other video game prizes that I'm too lazy to claim but I check in with it every once it a while. Check out the bot in action [here](https://twitter.com/WilliamHYZhang).
+And yeah, that's pretty much it. I've mostly won some small stuff like Pokemon codes, Roblox stuff, and other video game prizes that I'm too lazy to claim but I check in with it every once it a while. Check out the bot in action [here](https://twitter.com/LuckyWillyV2).
