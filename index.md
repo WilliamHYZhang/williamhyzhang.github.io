@@ -12,7 +12,7 @@ Besides professional work you can find me tinkering on random side projects, jam
 
 ### Profile
 
-Experience, contact info, etc. [here](/profile)
+Experience and contact [info](/profile)
 
 ### Cool Stuff
 
