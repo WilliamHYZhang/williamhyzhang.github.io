@@ -1,9 +1,5 @@
 title: William Zhang # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <center>thinking and doing
-  <br><br>
-  <a href="mailto:williamhyzhang@gmail.com">Email Me</a> 
-  <br><br>
-  <a href="https://www.linkedin.com/in/william-zhang-69420/">View My LinkedIn Profile</a> 
+  <center>thinking and doing</center>
 theme: jekyll-theme-minimal
