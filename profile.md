@@ -12,6 +12,6 @@
 
 ### Experience
 
-[Resume](/pdf/resume.pdf) (outdated)
+[Resume](/pdf/resume.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/william-zhang-69420/)
