@@ -6,7 +6,7 @@ Welcome to my website :)
 
 ### About
 
-I'm currently a junior at [Ward Melville](http://www.threevillagecsd.org/schools/ward_melville_high_school) High School in Setauket, NY. Outside of school I do CS. Besides professional work you can find me tinkering on random side projects, jamming on the sax/drums, or pretty much whatever perks my interest.
+I'm currently a rising senior at [Ward Melville](http://www.threevillagecsd.org/schools/ward_melville_high_school) High School in Setauket, NY. Outside of school I do CS. Besides professional work you can find me tinkering on random side projects, jamming on the sax/drums, or pretty much whatever perks my interest.
 
 ### What Am I Currently Doing?
 Mainly I'm focusing on
